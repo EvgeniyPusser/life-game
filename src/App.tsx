@@ -5,7 +5,7 @@ const {rows, columns} = lifeMatrixConfig;
 function App() {
 
   return <div>
-   <Matrix rows={rows} columns={columns} interval={10000}></Matrix>
+   <Matrix rows={rows} columns={columns} interval={700}></Matrix>
   </div>
 }
 

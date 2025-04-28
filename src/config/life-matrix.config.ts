@@ -1,6 +1,6 @@
 const lifeMatrixConfig = {
-    rows: 5,
-    columns: 5,
+    rows: 50,
+    columns: 50,
     interval: 400
 }
 export default lifeMatrixConfig;
