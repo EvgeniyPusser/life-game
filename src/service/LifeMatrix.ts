@@ -1,11 +1,5 @@
 
-//     next(): number[][] {
-//         //TODO
-//         //implementation of game of life algorith
-//         this._matrix = getRandomMatrix(this._matrix.length, this._matrix[0].length, 0, 1);
-//         return this._matrix
-//     }
-// }
+
 
 import { getRandomMatrix } from "../utils/matrix";
 

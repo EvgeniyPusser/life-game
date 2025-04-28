@@ -1,6 +1,7 @@
 import Matrix from "./components/life-matrix/Matrix"
 import lifeMatrixConfig from "./config/life-matrix.config";
 
+
 const {rows, columns} = lifeMatrixConfig;
 function App() {
 
